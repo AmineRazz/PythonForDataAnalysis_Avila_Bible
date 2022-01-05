@@ -35,3 +35,7 @@ F8       weight
 F9       peak number 
 F10     modular ratio/ interlinear spacing
 Class: A, B, C, D, E, F, G, H, I, W, X, Y
+
+It was a very interstiting project as it treats text recognition of old books. We had a surprinsignly furnished dataset, and so we were able to predict with very much accuracy which of the 12 copyist is writing.
+We had the chance to use a lot of the method we used in this class. A So, a big final project like this one was the best possible exercice to test our knowledge of the “data&machine learning” domain.
+It was a pleasure to work in group as well as we were able to help each other.
